@@ -48,8 +48,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/tenant-switching-dashboard.git
-   cd tenant-switching-dashboard
+   git clone https://github.com/RoRajak/frontegg--authentication-model.git
+   cd frontegg--authentication-model
    ```
 
 2. **Install Dependencies:**
